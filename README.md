@@ -9,4 +9,6 @@ China-based **arts** student who codes as a hobby. Proud member of [SealDice](ht
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oissevalt" align="center" border=0 width="400"></td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oissevalt&size_weight=0.5&count_weight=0.5&layout=compact" align="center" border=0 width=400></img>
+</p>
