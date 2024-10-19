@@ -1,6 +1,15 @@
-# Salutations.
+# Keep Thinking.
 
-China-based **arts** student who codes as a hobby. Proud member of [SealDice](https://github.com/sealdice/sealdice-core).
+<blockquote>
+  If thought is life <br/>
+  And strength and breath, <br/>
+  And the want <br/>
+  Of thought is death. <br/>
+  <br/>
+  —William Blake, ‘The Fly’
+</blockquote>
+
+Just another ordinary **arts** student who codes as a hobby. Member of [SealDice](https://github.com/sealdice/sealdice-core).
 
 <p>
   <a href="https://go.dev" target="_blank"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
